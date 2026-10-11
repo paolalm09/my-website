@@ -10,4 +10,4 @@
 | --- | --- | --- |
 | Week 1 | Tier 1 | $30.00 |
 
-_No parts listed yet._
+  - i took this from the guide but i have checked each linked and updated the prices
